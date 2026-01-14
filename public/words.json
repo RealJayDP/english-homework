@@ -1,62 +1,94 @@
 [
   {
-    "english": "apple",
-    "swedish": "äpple"
+    "english": "anymore",
+    "swedish": "längre"
   },
   {
-    "english": "house",
-    "swedish": "hus"
+    "english": "maple syrup",
+    "swedish": "lönnsirap"
   },
   {
-    "english": "book",
-    "swedish": "bok"
+    "english": "farm",
+    "swedish": "gård"
   },
   {
-    "english": "water",
-    "swedish": "vatten"
+    "english": "sign",
+    "swedish": "skylt"
   },
   {
-    "english": "sun",
-    "swedish": "sol"
+    "english": "sticky",
+    "swedish": "klibbigt"
   },
   {
-    "english": "moon",
-    "swedish": "måne"
+    "english": "buckets",
+    "swedish": "hinkar"
   },
   {
-    "english": "tree",
-    "swedish": "träd"
+    "english": "fire",
+    "swedish": "eld"
   },
   {
-    "english": "dog",
-    "swedish": "hund"
+    "english": "a long time ago",
+    "swedish": "för länge sedan"
   },
   {
-    "english": "cat",
-    "swedish": "katt"
+    "english": "What did you do?",
+    "swedish": "Vad gjorde du?"
   },
   {
-    "english": "bird",
-    "swedish": "fågel"
+    "english": "How did you make it?",
+    "swedish": "Hur gjorde du den?"
   },
   {
-    "english": "car",
-    "swedish": "bil"
+    "english": "pulled",
+    "swedish": "drog"
   },
   {
-    "english": "chair",
-    "swedish": "stol"
+    "english": "sled",
+    "swedish": "släde"
   },
   {
-    "english": "table",
-    "swedish": "bord"
+    "english": "cook",
+    "swedish": "koka"
   },
   {
-    "english": "door",
-    "swedish": "dörr"
+    "english": "sap",
+    "swedish": "sav"
   },
   {
-    "english": "window",
-    "swedish": "fönster"
+    "english": "wooden hut",
+    "swedish": "träskjul"
+  },
+  {
+    "english": "pan",
+    "swedish": "gryta"
+  },
+  {
+    "english": "pours",
+    "swedish": "häller"
+  },
+  {
+    "english": "lollipop",
+    "swedish": "klubba"
+  },
+  {
+    "english": "feel, felt, felt",
+    "swedish": "känna, kände, känt"
+  },
+  {
+    "english": "find, found, found",
+    "swedish": "hitta, hittade, hittat"
+  },  
+  {
+    "english": "forget, forgot, forgotten",
+    "swedish": "glömma, glömde, glömt"
+  },  
+  {
+    "english": "give, gave, given",
+    "swedish": "ge, gav, gett"
+  },
+  {
+    "english": "get, got, got",
+    "swedish": "få, fick, fått"
   }
 ]
