@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     // Load words from JSON file
-    fetch('/words.json')
+    fetch(`${import.meta.env.BASE_URL}words.json`)
       .then(response => response.json())
       .then(data => {
         // Shuffle the words and randomly assign direction (English->Swedish or Swedish->English)
