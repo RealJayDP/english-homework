@@ -1,116 +1,32 @@
 [
   {
-    "swedish": "vara,bli",
-    "infinitive": "be",
-    "past": "was",
-    "pastParticiple": "been"
+    "swedish": "träffas, mötas",
+    "infinitive": "meet",
+    "past": "met",
+    "pastParticiple": "met"
   },
   {
-    "swedish": "börja",
-    "infinitive": "begin",
-    "past": "began",
-    "pastParticiple": "begun"
+    "swedish": "sätta, lägga",
+    "infinitive": "put",
+    "past": "put",
+    "pastParticiple": "put"
   },
   {
-    "swedish": "köpa",
-    "infinitive": "buy",
-    "past": "bought",
-    "pastParticiple": "bought"
+    "swedish": "läsa",
+    "infinitive": "read",
+    "past": "read",
+    "pastParticiple": "read"
   },
   {
-    "swedish": "välja",
-    "infinitive": "choose",
-    "past": "chose",
-    "pastParticiple": "chosen"
+    "swedish": "springa",
+    "infinitive": "run",
+    "past": "ran",
+    "pastParticiple": "run"
   },
   {
-    "swedish": "komma",
-    "infinitive": "come",
-    "past": "came",
-    "pastParticiple": "come"
-  },
-  {
-    "swedish": "göra",
-    "infinitive": "do",
-    "past": "did",
-    "pastParticiple": "done"
-  },
-  {
-    "swedish": "dricka",
-    "infinitive": "drink",
-    "past": "drank",
-    "pastParticiple": "drunk"
-  },
-  {
-    "swedish": "köra",
-    "infinitive": "drive",
-    "past": "drove",
-    "pastParticiple": "driven"
-  },
-  {
-    "swedish": "äta",
-    "infinitive": "eat",
-    "past": "ate",
-    "pastParticiple": "eaten"
-  },
-  {
-    "swedish": "känna",
-    "infinitive": "feel",
-    "past": "felt",
-    "pastParticiple": "felt"
-  },
-  {
-    "swedish": "hitta",
-    "infinitive": "find",
-    "past": "found",
-    "pastParticiple": "found"
-  },
-  {
-    "swedish": "glömma",
-    "infinitive": "forget",
-    "past": "forgot",
-    "pastParticiple": "forgotten"
-  },
-  {
-    "swedish": "få, bli, komma",
-    "infinitive": "get",
-    "past": "got",
-    "pastParticiple": "got"
-  },
-  {
-    "swedish": "ge",
-    "infinitive": "give",
-    "past": "gave",
-    "pastParticiple": "given"
-  },
-  {
-    "swedish": "gå, åka",
-    "infinitive": "go",
-    "past": "went",
-    "pastParticiple": "gone"
-  },
-  {
-    "swedish": "ha",
-    "infinitive": "have",
-    "past": "had",
-    "pastParticiple": "had"
-  },
-  {
-    "swedish": "veta, kunna, känna",
-    "infinitive": "know",
-    "past": "knew",
-    "pastParticiple": "known"
-  },
-{
-    "swedish": "lämna",
-    "infinitive": "leave",
-    "past": "left",
-    "pastParticiple": "left"
-  },
-  {
-    "swedish": "göra, tillverka",
-    "infinitive": "make",
-    "past": "made",
-    "pastParticiple": "made"
+    "swedish": "säga",
+    "infinitive": "say",
+    "past": "said",
+    "pastParticiple": "said"
   }
 ]
