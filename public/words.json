@@ -1,31 +1,31 @@
 [
   {
-    "english": "see, saw, seen",
-    "swedish": "se, såg, sett"
+    "english": "sweater",
+    "swedish": "tröjor"
   },
   {
-    "english": "sing, sang, sung",
-    "swedish": "sjunga, sjöng, sjungit"
+    "english": "blouses",
+    "swedish": "blusar"
   },
   {
-    "english": "sit, sat, sat",
-    "swedish": "sitta, satt, suttit"
+    "english": "shirts",
+    "swedish": "skjortor"
   },
   {
-    "english": "sleep, slept, slept",
-    "swedish": "sova, sov, sovit"
+    "english": "skirts",
+    "swedish": "kjolar"
   },
   {
-    "english": "drives",
-    "swedish": "kör"
+    "english": "trousers",
+    "swedish": "byxor"
   },
   {
-    "english": "car park",
-    "swedish": "parkering"
+    "english": "jackets",
+    "swedish": "jackor"
   },
   {
-    "english": "shopping centre",
-    "swedish": "köpcenter"
+    "english": "belts",
+    "swedish": "bälten"
   },
   {
     "english": "the ground",
@@ -36,39 +36,15 @@
     "swedish": "rutiga"
   },
   {
-    "english": "napkins",
-    "swedish": "servetter"
+    "english": "nearly",
+    "swedish": "nästan"
   },
   {
-    "english": "Are you ready to order?",
-    "swedish": "Är ni redo att beställa?"
+    "english": "the first time",
+    "swedish": "första gången"
   },
   {
-    "english": "I'll have",
-    "swedish": "Jag vill ha"
-  },
-  {
-    "english": "large",
-    "swedish": "stor"
-  },
-  {
-    "english": "mess",
-    "swedish": "röra"
-  },
-  {
-    "english": "I didn't order this!",
-    "swedish": "Jag beställde inte detta!"
-  },
-  {
-    "english": "chips",
-    "swedish": "pommes frites"
-  },
-  {
-    "english": "gravy",
-    "swedish": "brunsås"
-  },
-  {
-    "english": "quiet",
-    "swedish": "tyst"
+    "english": "sina egna",
+    "swedish": "their own"
   }
 ]
